@@ -11,5 +11,5 @@
       * Use of vectorization (CountVecotrizer)
       * MLP model
 
-    ![MLP architecture](MLP.drawio.png)
+    ![MLP architecture](images/MLP.drawio.png)
 2.  
