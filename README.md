@@ -8,5 +8,6 @@
       * Data spliting
       * Use of vectorization (CountVecotrizer)
       * MLP model
-    ![MLP architecture]()
+
+    ![MLP architecture](MLP.drawio.png)
 2.  
